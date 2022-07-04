@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "desc": "Ayu colored GTK and Kvantum themes based on Arc",
+    "desc_long": null,
+    "home": "https://github.com/dnordstrom/ayu-theme/",
+    "license": {
+      "deprecated": true,
+      "free": true,
+      "fullName": "GNU General Public License v3.0",
+      "redistributable": true,
+      "shortName": "gpl3",
+      "spdxId": "GPL-3.0",
+      "url": "https://spdx.org/licenses/GPL-3.0.html"
+    },
+    "maintainers": [
+      {
+        "email": "meurerbernardo@gmail.com",
+        "github": "lovesegfault",
+        "githubId": 7243783,
+        "keys": [
+          {
+            "fingerprint": "F193 7596 57D5 6DA4 CCD4  786B F4C0 D53B 8D14 C246",
+            "longkeyid": "rsa4096/0xF4C0D53B8D14C246"
+          }
+        ],
+        "matrix": "@lovesegfault:matrix.org",
+        "name": "Bernardo Meurer"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commits": [
+        {
+          "first": "001ac664326deb3adf6b432e0f85ded816f9263d",
+          "last": "0031ccab55e72a1ca59128882f9f98de2a049226"
+        }
+      ],
+      "name": "2017-05-12"
+    }
+  ]
+}

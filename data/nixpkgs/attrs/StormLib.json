@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "desc": "An open-source project that can work with Blizzard MPQ archives",
+    "desc_long": null,
+    "home": "https://github.com/ladislav-zezula/StormLib",
+    "license": {
+      "deprecated": false,
+      "free": true,
+      "fullName": "MIT License",
+      "redistributable": true,
+      "shortName": "mit",
+      "spdxId": "MIT",
+      "url": "https://spdx.org/licenses/MIT.html"
+    },
+    "maintainers": [
+      {
+        "email": "aaron@fosslib.net",
+        "github": "aanderse",
+        "githubId": 7755101,
+        "matrix": "@aanderse:nixos.dev",
+        "name": "Aaron Andersen"
+      },
+      {
+        "email": "info+nix@chmist.com",
+        "name": "karolchmist"
+      }
+    ]
+  },
+  "versions": [
+    {
+      "commits": [
+        {
+          "first": "001ac664326deb3adf6b432e0f85ded816f9263d",
+          "last": "0031ccab55e72a1ca59128882f9f98de2a049226"
+        }
+      ],
+      "name": "9.22"
+    }
+  ]
+}
